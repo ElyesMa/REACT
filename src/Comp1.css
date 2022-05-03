@@ -53,7 +53,7 @@ span{
 
 @media (prefers-reduced-motion: no-preference) {
     #logo1{
-      animation: bounce infinite 4s linear;
+      animation: bounce infinite 4.5s linear;
   
     }
   }

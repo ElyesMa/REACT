@@ -31,6 +31,16 @@ position: absolute;
 
 
 }
+#Logo4{
+    width: 6vw;
+    height: 6vw;
+    top:6.1vw;
+    left: 61.4vw;
+    position: absolute;
+    
+    
+    }
+    
 
 @media (prefers-reduced-motion: no-preference) {
     #Logo1 {
@@ -43,6 +53,10 @@ position: absolute;
       }
     #Logo3 {
         animation: logoinvmove infinite 4s linear;
+    
+    }
+    #Logo4 {
+        animation: logomove infinite 4s linear;
     
     }
   }
@@ -107,7 +121,7 @@ position: absolute;
 
 @media (prefers-reduced-motion: no-preference) {
     #Title{
-      animation: Move infinite 6s linear;
+      animation: Move infinite 4s linear;
       margin-left: -400PX;
   
     }
@@ -121,19 +135,19 @@ position: absolute;
     transform:         translateX(0)
   }
   25% {
-    -webkit-transform: translateX(13vw);
-    -ms-transform:     translateX(13vw);
-    transform:         translateX(13vw)
+    -webkit-transform: translateX(6vw);
+    -ms-transform:     translateX(6vw);
+    transform:         translateX(6vw);
   }
   50% {
-    -webkit-transform: translateX(26vw);
-    -ms-transform:     translateX(26vw);
-    transform:         translateX(26vw)
+    -webkit-transform: translateX(12vw);
+    -ms-transform:     translateX(12vw);
+    transform:         translateX(12vw)
   }
   75% {
-    -webkit-transform: translateX(13vw);
-    -ms-transform:     translateX(13vw);
-    transform:         translateX(13vw)
+    -webkit-transform: translateX(6vw);
+    -ms-transform:     translateX(6vw);
+    transform:         translateX(6vw);
   }
   100% {
     -webkit-transform: translateX(0);

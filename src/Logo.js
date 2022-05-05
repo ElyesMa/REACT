@@ -7,6 +7,7 @@ function Logo() {
         <img id="Logo1" src="./1.png" alt=""></img>
         <img id="Logo2" src="./2.png" alt=""></img>
         <img id="Logo3" src="./3.png" alt=""></img>
+        <img id="Logo4" src="./4.png" alt=""></img>
         <br></br>
         <br></br>
         <br></br>

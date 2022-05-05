@@ -1,7 +1,7 @@
 #Logo0{
     width: 60vw;
     height: 11vw;
-    top:4vw;
+    top:2.7vw;
     left: 26vw;
     position: absolute;
     
@@ -10,14 +10,14 @@
 #Logo1{
 width: 6.25vw;
 height: 6.25vw;
-top:5.7vw;
+top:4.4vw;
 left: 32.5vw;
 position: absolute;
 }
 #Logo2{
 width: 3.64vw;
 height: 3.64vw;
-top:4.6vw;
+top:3.4vw;
 left: 37.5vw;
 position: absolute;
 
@@ -25,7 +25,7 @@ position: absolute;
 #Logo3{
 width: 2.6vw;
 height: 2.6vw;
-top:4.1vw;
+top:2.8vw;
 left: 35.5vw;
 position: absolute;
 
@@ -34,7 +34,7 @@ position: absolute;
 #Logo4{
     width: 6vw;
     height: 6vw;
-    top:6.1vw;
+    top:4.8vw;
     left: 61.4vw;
     position: absolute;
     
@@ -114,8 +114,9 @@ position: absolute;
 }
 
 #Title {
-    margin-left: -0.5vw;
+    margin-left: 0.5vw;
     color: black;
+    font-size:2vw;
   }
   
 
@@ -130,28 +131,29 @@ position: absolute;
   
   @keyframes Move {
   0%{
-    -webkit-transform: translateX(0);
-    -ms-transform:     translateX(0);
-    transform:         translateX(0)
+    -webkit-transform: translateX(11vw);
+    -ms-transform:     translateX(11vw);
+    transform:         translateX(11vw);
   }
   25% {
-    -webkit-transform: translateX(6vw);
-    -ms-transform:     translateX(6vw);
-    transform:         translateX(6vw);
+    -webkit-transform: translateX(17vw);
+    -ms-transform:     translateX(17vw);
+    transform:         translateX(17vw);
   }
   50% {
-    -webkit-transform: translateX(12vw);
-    -ms-transform:     translateX(12vw);
-    transform:         translateX(12vw)
+    -webkit-transform: translateX(23vw);
+    -ms-transform:     translateX(23vw);
+    transform:         translateX(23vw)
   }
   75% {
-    -webkit-transform: translateX(6vw);
-    -ms-transform:     translateX(6vw);
-    transform:         translateX(6vw);
+    -webkit-transform: translateX(17vw);
+    -ms-transform:     translateX(17vw);
+    transform:         translateX(17vw);
   }
   100% {
-    -webkit-transform: translateX(0);
-    -ms-transform:     translateX(0);
-    transform:         translateX(0)
+    -webkit-transform: translateX(11vw);
+    -ms-transform:     translateX(11vw);
+    transform:         translateX(11vw);
   }
+
   } 

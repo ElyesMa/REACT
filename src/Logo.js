@@ -12,7 +12,7 @@ function Logo() {
         <br></br>
         <br></br>
         <br></br>
-        <br></br>
+
         <h1 id="Title"> MY <span>FIRST</span> APPLICATION</h1>
 
         

@@ -6,9 +6,6 @@ function Comp1() {
   return (
     <div className="Comp1">
       <header className="Comp1-header">
-        <img id="logo2" src="./Logo2.png" alt=""></img>
-        <img id="logo1" src="./Logo1.png" alt=""></img>
-        <h1> MY <span>FIRST</span> APPLICATION</h1>
         <Form>
         <Form.Group className="mb-3" controlId="formBasicEmail">
           <Form.Label>Login</Form.Label>

@@ -1,4 +1,5 @@
 import './App.css';
+import Logo from './Logo';
 import Comp1 from './Comp1';
 
 
@@ -6,14 +7,8 @@ import Comp1 from './Comp1';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-
-        <h1>HELLO</h1>
+        <Logo />
         <Comp1 />
-
-
-
-</header>
     </div>
   );
 }

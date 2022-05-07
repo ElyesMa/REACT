@@ -136,19 +136,19 @@ position: absolute;
     transform:         translateX(11vw);
   }
   25% {
-    -webkit-transform: translateX(17vw);
-    -ms-transform:     translateX(17vw);
-    transform:         translateX(17vw);
+    -webkit-transform: translateX(16vw);
+    -ms-transform:     translateX(16vw);
+    transform:         translateX(16vw);
   }
   50% {
-    -webkit-transform: translateX(23vw);
-    -ms-transform:     translateX(23vw);
-    transform:         translateX(23vw)
+    -webkit-transform: translateX(22vw);
+    -ms-transform:     translateX(22vw);
+    transform:         translateX(22vw)
   }
   75% {
-    -webkit-transform: translateX(17vw);
-    -ms-transform:     translateX(17vw);
-    transform:         translateX(17vw);
+    -webkit-transform: translateX(16vw);
+    -ms-transform:     translateX(16vw);
+    transform:         translateX(16vw);
   }
   100% {
     -webkit-transform: translateX(11vw);

@@ -10,8 +10,7 @@ function Logo() {
         <img id="Logo4" src="./4.png" alt=""></img>
         <br></br>
         <br></br>
-        <br></br>
-        <br></br>
+    
 
         <h1 id="Title"> MY <span>FIRST</span> APPLICATION</h1>
 

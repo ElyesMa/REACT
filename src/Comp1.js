@@ -22,11 +22,11 @@ function Comp1() {
         <Button variant="primary" type="submit">
           Submit
         </Button>
-        <Button variant="primary" type="submit" marginLeft="100px">
+        <Button variant="primary" type="submit" marginleft="100px">
           Subscribe
         </Button>
       </Form>
-      <h6>Evaluate our Application</h6>
+      <h6 >Evaluate our Application</h6>
       <ReactStars
       count={6}
       size={24}
